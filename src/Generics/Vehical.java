@@ -1,0 +1,7 @@
+package Generics;
+
+ class Vehical {
+
+
+
+}
